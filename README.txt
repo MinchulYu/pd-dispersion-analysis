@@ -198,5 +198,10 @@ for coupled peridynamic wave propagation."
 9. Contact
 -------------------------------------------------------------------------------
 
-For questions regarding the codes, please contact the corresponding author of
-the paper.
+For questions regarding the codes, please contact the authors of the paper:
+gunwoonoh@gmail.com (Corresponding author)
+yumincheol6@gmail.com (First author)
+
+Please visit:
+https://gunwoonoh.wixsite.com/femlab
+
