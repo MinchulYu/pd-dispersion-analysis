@@ -121,11 +121,12 @@ theta_set      : propagation angles for the two-dimensional analysis
 Representative values used in the paper include:
 
 CDM:
-    CFL = 0.4, 0.7, 1.0
+    CFL = 0.4, 0.7, 1.0 (maximum)
 
 NB method:
     p = 0.54
     p = 2 - sqrt(2)
+    CFL = 1.0, 1.5, 1/p (maximum)
 
 -------------------------------------------------------------------------------
 5. How to Run
