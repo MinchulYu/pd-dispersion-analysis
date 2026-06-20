@@ -7,8 +7,6 @@ This repository contains MATLAB codes for peridynamic dispersion analyses relate
 "Spatio-temporal dispersion analysis of dissipative time integration schemes for coupled peridynamic wave propagation"
 by Minchul Yu and Gunwoo Noh
 
-This repository will be made public after acceptance of the paper.
-
 -------------------------------------------------------------------------------
 1. Overview
 -------------------------------------------------------------------------------
